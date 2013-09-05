@@ -1,5 +1,7 @@
 # Cookies.js
 
+[![Build Status](https://travis-ci.org/airyland/seedit.cookie.png?branch=master)](https://travis-ci.org/airyland/seedit.cookie)
+
 Cookies.js is a small client-side javascript library that makes managing cookies easy.
 
 ## Features
